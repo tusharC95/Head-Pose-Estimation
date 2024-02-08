@@ -15,7 +15,7 @@ of the head.
 
 https://user-images.githubusercontent.com/64319078/151691938-e1ef764c-ccbb-4ece-b319-4d6dbe6f1ed7.mov
 
-https://user-images.githubusercontent.com/64319078/151691966-02900362-eb42-4815-8b9f-a5ebfa6a4d43.mov
+https://github.com/tusharC95/Head-Pose-Estimation/assets/64319078/ce14a080-f7b0-42ef-a766-24eaf309053a
 
 https://user-images.githubusercontent.com/64319078/151691994-1b7711f7-af4b-45ce-bfcc-7d6718df629f.mov
 
